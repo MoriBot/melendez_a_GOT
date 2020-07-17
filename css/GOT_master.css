@@ -62,7 +62,7 @@ main {
 
 #houseImages {
     position: relative;
-    width: 4000px;
+    width: 7000px;
     /*this might need to be bigger*/
     transition: all .5s;
 }
@@ -146,6 +146,30 @@ main {
 
 .arryn:hover {
     background-position: -253px 0px;
+}
+
+.targaryen {
+    background-position: -303px -54px;
+}
+
+.targaryen:hover {
+    background-position: -303px 0px;
+}
+
+.tyrell {
+    background-position: -353.5px -54px;
+}
+
+.tyrell:hover {
+    background-position: -353.5px 0px;
+}
+
+.frey {
+    background-position: -404px -54px;
+}
+
+.frey:hover {
+    background-position: -404px 0px;
 }
 
 
